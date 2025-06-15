@@ -20,3 +20,4 @@ app.listen(port, () => {
 	console.log("\nWeb service started on port:", port)
 })
 
+var a = "hello";
